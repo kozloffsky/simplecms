@@ -1,0 +1,4 @@
+s_cms:
+    resource: "@SCmsBundle/Resources/config/routing.yml"
+    prefix:   /
+

@@ -1,0 +1,7 @@
+parameters:
+#    s_cms.example.class: MikeOz\SimpleCmsBundle\Example
+
+services:
+#    s_cms.example:
+#        class: %s_cms.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
